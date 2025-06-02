@@ -41,7 +41,7 @@ Bu proje, OpenCV ve NumPy kullanarak görüntülerdeki “STOP” trafik levhala
 ---
 
 ## Gereksinimler
-- İşlemek istediğiniz görselleri .py dosyasıyle ve data_path adlı klasörün içinde bulundurunuz. 
+- İşlemek istediğiniz görselleri .py dosyasıyle ve stop_sign_dataset adlı klasörün içinde bulundurunuz. 
 - Python 3.6 veya üstü  
 - Aşağıdaki Python paketleri:
   ```bash
